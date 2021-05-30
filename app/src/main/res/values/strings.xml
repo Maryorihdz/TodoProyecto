@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Productos</string>
+    <string name="hint_nombre">Nombre producto:</string>
+    <string name="hint_telefono">cantidad:</string>
+    <string name="hint_correo_electronico"> Nombre proveedor:</string>
+    <string name="btn_guarda">Guardar producto</string>
+    <string name="menu_nuevo">Nuevo producto</string>
+    <string name="todo">TODO</string>
+</resources>
